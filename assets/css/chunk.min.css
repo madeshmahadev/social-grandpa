@@ -1,0 +1,13 @@
+#navbarLogo {
+    width: 100px;
+}
+
+.bg-y {
+    background-color: #f0e511 !important;
+}
+
+.btn-outline-dark:hover {
+    color: #fff;
+    background-color: #ffffff;
+    border-color: #ffffff;
+}
