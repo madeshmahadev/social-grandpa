@@ -11,3 +11,13 @@
     background-color: #ffffff;
     border-color: #ffffff;
 }
+
+footer-bottom-mobile {
+    display: none;
+}
+
+@media only screen and (max-width: 768px){
+    footer-bottom-mobile {
+        display: block;
+    }
+}
